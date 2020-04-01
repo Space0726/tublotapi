@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'search',
     'rest_framework',
     'corsheaders',
+    'dbagent'
 ]
 
 MIDDLEWARE = [
