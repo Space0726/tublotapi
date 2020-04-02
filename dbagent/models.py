@@ -16,4 +16,4 @@ class Video(models.Model):
     duration = models.BigIntegerField()
 
     def __str__(self):
-        return self.id
+        return self.title
